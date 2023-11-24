@@ -26,4 +26,5 @@ Packages (pip install):
 - win32gui
 
 Progress:
-AI can currently do single battles, but there is no double battle support for this AI (yet). <br />
+<br />
+AI can currently do single battles, but there is no double battle support for this AI (yet).
