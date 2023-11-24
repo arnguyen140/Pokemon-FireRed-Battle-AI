@@ -6,6 +6,7 @@ Requirements:
 - Emulator for Pokemon FireRed
 - Tesseract OCR
 - Node.js and npm
+- Install Pokemon Showdown Damage Calculator --> https://github.com/smogon/damage-calc
 
 Packages (pip install):
 - re
