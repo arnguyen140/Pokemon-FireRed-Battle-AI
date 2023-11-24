@@ -5,6 +5,7 @@ An AI that takes control of battles (single battles for now) in the game Pokemon
 Requirements:
 - Emulator and ROM for Pokemon FireRed
 - Tesseract OCR
+  - After installing Tesseract, paste "FireRedver1.traineddata" into tessdata folder
 - Node.js and npm
 - Install Pokemon Showdown Damage Calculator --> https://github.com/smogon/damage-calc
 
