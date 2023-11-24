@@ -4,6 +4,7 @@ An AI that takes control of battles (single battles for now) in the game Pokemon
 
 Requirements:
 - Emulator and ROM for Pokemon FireRed
+  - Set in-game text speed to medium otherwise AI won't work
 - Tesseract OCR
   - After installing Tesseract, paste the traineddata file into tessdata folder
 - Node.js and npm
