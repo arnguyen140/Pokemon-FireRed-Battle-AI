@@ -2,11 +2,6 @@
 
 An AI that takes control of battles (single battles for now) in the game Pokemon FireRed.
 
-How to use:
-- Run the AI file as you're entering the battle (ideally while you're scrolling through the trainer dialogue in the overworld) before "Trainer XYZ would like to battle!" appears
-- Once the screen turns black and enters the battle environment don't press any buttons
-- Stop the AI once the overworld appears again
-
 Requirements:
 - Emulator and ROM for Pokemon FireRed
   - Set in-game text speed to medium or slow otherwise AI won't work
@@ -32,6 +27,11 @@ Packages (pip install):
 - pydirectinput
 - PIL
 - win32gui
+
+How to use:
+- Run the AI file as you're entering the battle (ideally while you're scrolling through the trainer dialogue in the overworld) before "Trainer XYZ would like to battle!" appears
+- Once the screen turns black and enters the battle environment don't press any buttons
+- Stop the AI once the overworld appears again
 
 Progress:
 <br />
