@@ -27,4 +27,4 @@ Packages (pip install):
 
 Progress:
 <br />
-AI can currently do single battles, but there is no double battle support for this AI (yet).
+AI can currently do single battles, but there is no double battle support for the AI (yet).
