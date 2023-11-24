@@ -29,7 +29,7 @@ Packages (pip install):
 - win32gui
 
 How to use:
-- Run the AI file as you're entering the battle (ideally while you're scrolling through the trainer dialogue in the overworld) before "Trainer XYZ would like to battle!" appears
+- Run the AI file (ideally while you're scrolling through the trainer dialogue in the overworld) before "Trainer XYZ would like to battle!" appears
 - Once the screen turns black and enters the battle environment don't press any buttons
 - Stop the AI once the overworld appears again
 
