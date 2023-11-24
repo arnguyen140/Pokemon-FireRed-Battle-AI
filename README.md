@@ -3,7 +3,7 @@
 An AI that takes control of battles (single battles for now) in the game Pokemon FireRed.
 
 Requirements:
-- Emulator for Pokemon FireRed
+- Emulator and ROM for Pokemon FireRed
 - Tesseract OCR
 - Node.js and npm
 - Install Pokemon Showdown Damage Calculator --> https://github.com/smogon/damage-calc
