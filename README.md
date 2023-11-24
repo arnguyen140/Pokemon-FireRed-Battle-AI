@@ -4,7 +4,7 @@ An AI that takes control of battles (single battles for now) in the game Pokemon
 
 How to use:
 - Run the AI file as you're entering the battle (ideally while you're scrolling through the trainer dialogue in the overworld)
-- Once the screen says "Trainer XYZ would like to battle!" don't press any buttons
+- Once the screen turns black and enters the battle environment don't press any buttons
 - Stop the AI once the overworld appears again
 
 Requirements:
