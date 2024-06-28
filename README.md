@@ -36,8 +36,6 @@ How to use:
 
 Progress:
 <br />
-11/24/23
-AI can currently do single battles (apart from tutorial battle), but there is no double battle support for the AI (yet).
+11/24/23: AI can currently do single battles (apart from tutorial battle), but there is no double battle support for the AI (yet).
 
-6/28/24
-AI can play the tutorial battle.
+6/28/24: AI can play the tutorial battle.
