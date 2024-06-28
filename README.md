@@ -3,7 +3,7 @@
 An AI that takes control of battles (single battles for now) in the game Pokemon FireRed.
 
 Requirements:
-- Emulator and ROM for Pokemon FireRed
+- VBA Emulator and ROM for Pokemon FireRed
 - Tesseract OCR
   - After installing Tesseract, paste the traineddata file into tessdata folder
 - Node.js and npm
@@ -30,8 +30,9 @@ Packages (pip install):
 How to use:
 - Set in-game text speed to medium or slow otherwise AI won't work
 - Run "FireRedBattleAI.py" (ideally while you're scrolling through the trainer dialogue in the overworld) before "Trainer XYZ would like to battle!" appears
-- Continue to press through the dialogue until the screen turns black and you enter the battle environment. Then don't press any buttons and let the AI play.
-- Stop the AI once the overworld appears again
+- Continue to press through the dialogue until the screen turns black and you enter the battle environment
+- Then don't press any buttons and let the AI play
+- The AI will stop once the overworld appears again, allowing you to take control again
 
 Progress:
 <br />
